@@ -11,7 +11,7 @@ Dissecting the meaning of open source and understanding the spirit of open sourc
 
 When a software engineer writes a good software, he is not self-privileged or self-styled. He is willing to share it because he believes that the software may help others, and that they will help him to make a better software. As the western proverb goes, "Give a rose to someone, leave a fragrance in your hand. We all believe: **The willingness to share is the beginning of all good deeds.**
 
-* **openness**
+* **Openness**
 
 In many ways, openness is important. Not just open source, but also open and transparent communities. Such a community can attract more people to join. It can also help newcomers to understand and agree with the rules of the community. It also promotes oversight to improve the procedural justice with which the community operates. Openness also includes welcoming all possibilities, as open source is universal, and users, participants, and contributors from anywhere in the world are welcome. There is a Chinese proverb that says: "All rivers run in the sea, and there is capacity for greatness. We all believe that: **Openness and transparency are the cornerstones of all good collaboration.**
 
